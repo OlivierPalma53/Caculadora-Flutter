@@ -1,6 +1,6 @@
 # calculadora
 
-Soma dois numeros
+Projeto simples para a soma de dois numeros desenvolvido para estudo do Framework Flutter.
 
 ## Getting Started
 
